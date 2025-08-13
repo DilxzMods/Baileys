@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/BASED-Baileys-red?style=flat-square&logo=whatsapp" />
-  <img src="https://img.shields.io/badge/POWERED_BY-REDNAME-FF0000?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/STATUS-ALIVE-red?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/POWERED_BY-Dilxz-FF0000?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/STATUS-Alive-red?style=flat-square&logo=linux" />
 </p>
 
 ---
