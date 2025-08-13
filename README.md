@@ -5,7 +5,7 @@
 <!-- REDNAME README KECE GILA 🔥 -->
 
 <p align="center">
-  <img src="https://files.catbox.moe/jq1i7q.jpg" alt="png" />
+  <img src="https://files.catbox.moe/2tcrbx.jpg" alt="png" />
 </p>
 
 <p align="center">
